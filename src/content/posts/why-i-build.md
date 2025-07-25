@@ -1,5 +1,5 @@
 ---
-title: why-i-build
+title: "Why I Build"
 pubDate: '2025-07-25'
 ---
 
@@ -9,17 +9,9 @@ pubDate: '2025-07-25'
 
 I’ve been building things for as long as I can remember.
 
-Before I wrote my first line of code, I was already breaking toys apart, sticking wires into power outlets (not recommended), and asking dangerous questions like “what happens if I connect this to that?” I’ve always wanted to *understand* how things work — not just use them. That curiosity didn’t fade with age. It grew sharper, more intentional.
+Before I wrote my first line of code, I was already breaking toys apart, sticking my fingers into power outlets (not recommended), and asking dangerous questions like “what happens if I connect this to that?” I’ve always wanted to *understand* how things work — not just use them. That curiosity didn’t fade with age. It grew sharper, more intentional.
 
 Now, I build things because it gives me a sense of control over the chaos. Because it’s satisfying to turn nothing into something. And, if I’m being honest — because it feels damn good to show people something that works well, looks clean, and solves a problem that matters.
-
----
-
-## 🧭 I Don’t Build to Fill My Resume
-
-Let’s get this out of the way: I’m not a checklist developer.
-
-I don’t build half-broken apps just to say I shipped something. I don’t throw buzzwords into my stack to impress people who won’t read the code. I don’t follow every new trend because Twitter told me it’s the future.
 
 What I do is solve real problems — usually *mine* — then refine those solutions until they’re good enough to help others too. My projects didn’t start with “what would look good in an interview?” They started with “I wish this existed” or “this is annoying me enough to fix.”
 
@@ -53,13 +45,6 @@ A good product shouldn’t just *solve* a problem. It should solve it beautifull
 
 ---
 
-## 💪 Discipline Isn’t Just for Code
-
-Outside of engineering, I’ve pushed myself in other ways too — like weightlifting. Competing at the inter-university level taught me something valuable: consistency beats motivation. Whether it’s reps in the gym or commits in a repo, showing up daily matters more than flashy bursts of effort.
-
-That mindset — of training quietly, learning constantly, and delivering reliably — is part of everything I do.
-
----
 
 ## 🧩 Why I’ll Keep Building
 
