@@ -3,13 +3,17 @@ title: 'Welcome to My Blog'
 pubDate: '2025-07-25'
 ---
 
-Hey! Welcome to my little corner of the internet.
+Welcome. I’m Kethaka—a builder, problem-solver, and relentless tinkerer.
 
-I’m Kethaka—a 23-year-old computer science major who’s way too obsessed with building random apps, poking around in tech, and figuring out how things break (and how to fix them). If it’s creative, nerdy, or just plain weird, I’m probably into it.
+This site isn’t just a blog. It’s a workshop, a lab, and sometimes a postmortem. Every project, guide, or breakdown you’ll find here started as a personal itch—something I needed, something that bugged me, or something I just had to understand. I build to turn chaos into clarity, and I share what I learn so others can skip the guesswork (or at least enjoy the mess).
 
-Here, you’ll find all sorts of stuff: cool things I stumble across, guides and tutorials I wish existed when I started out, and deep dives into projects I’m working on. I also love breaking down wild cyber attacks and hacks—think of it as story time, but with more code and less sleep.
+Here’s what you’ll find:
+- **Deep dives** into how things work (and sometimes, why they break)
+- **Guides and tutorials** I wish existed when I started
+- **Stories from the trenches**—the wins, the bugs, the “aha!” moments
+- The occasional tangent into design, music, or whatever else I’m obsessing over that week
 
-Basically, if it’s something that made me go “whoa, that’s awesome” or “ugh, why did nobody write this up before?”, it’ll probably end up here. Sometimes it’s tech, sometimes it’s design, music, movies, or just whatever I’m geeking out about that week.
+I care about craft. I care about making things that feel right, not just work. If you’re here, you probably do too.
 
-Thanks for dropping by! Hope you find something here that helps, inspires, or at least entertains you. Let’s keep building cool stuff and learning new things together.
+So poke around. Steal an idea. Fix a bug. Or just enjoy the ride. If you leave with a new insight—or a new itch to scratch—then this place is doing its job.
 

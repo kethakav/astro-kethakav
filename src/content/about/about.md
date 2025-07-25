@@ -9,6 +9,8 @@ You can leave this empty if you don’t want to show any content.
 
 
 
-Hey, I’m Kethaka! I’m a Cybersecurity Engineering student who loves building cool apps in my free time. I’m really into good design, movies, VFX, CGI, music, and tech. 
+Hi, I’m Kethaka. I’m a builder, problem-solver, and aesthetic perfectionist. I make tools, interfaces, and experiences that feel like they were crafted, not just coded.
 
-Always curious, always creating—just having fun exploring ideas and making things that excite me.
+I don’t just build things because I can — I build them because I need them. Every project here solved a personal itch, then evolved into something polished enough to ship to the world.
+
+I specialize in turning chaos into clarity. With code, with design, and occasionally — with dumbbells.
