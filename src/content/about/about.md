@@ -7,7 +7,7 @@ This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->
 
-Hi, I'm Kethaka. This will be my personal website where I share about my projects, guides or tutorials that would have saved me hundreds of hours, or just random thoughts that pop onto my head. Test.
+Hi, I'm Kethaka. This will be my personal website where I share about my projects, guides or tutorials that would have saved me hundreds of hours, or just random thoughts that pop onto my head.
 
 It's a work in progress. See y'all soon. 
 
