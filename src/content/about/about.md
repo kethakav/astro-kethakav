@@ -9,7 +9,7 @@ You can leave this empty if you don’t want to show any content.
 
 Hi, I'm Kethaka. This will be my personal website/blog where I write about anything that comes to mind. 
 
-In the meantime, come say hi [@kethakav](https://x.com/kethakav), or kethaka.22@cse.mrt.ac.lk
+Come say hi [@kethakav](https://x.com/kethakav), or kethaka.22@cse.mrt.ac.lk
 
 <!-- Hi, I’m Kethaka. I’m a builder, problem-solver, and aesthetic perfectionist. I make tools, interfaces, and experiences that feel like they were crafted, not just coded.
 
